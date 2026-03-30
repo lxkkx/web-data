@@ -1,0 +1,178 @@
+﻿
+> web-frontend@0.0.0 build
+> vite build
+
+[36mvite v8.0.0 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...Γ£ô 2164 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                       1.10 kB Γöé gzip:  0.56 kB
+dist/assets/index-DoVUZWkq.css                       71.76 kB Γöé gzip: 10.42 kB
+dist/assets/chevron-right-0HuqdJxJ.js                 0.13 kB Γöé gzip:  0.14 kB
+dist/assets/plus-DDYnrryw.js                          0.15 kB Γöé gzip:  0.15 kB
+dist/assets/clock-Nza3CfvK.js                         0.16 kB Γöé gzip:  0.16 kB
+dist/assets/trending-up-B8de7FYy.js                   0.17 kB Γöé gzip:  0.17 kB
+dist/assets/circle-check-big-CMjY0Wt2.js              0.19 kB Γöé gzip:  0.18 kB
+dist/assets/target-Ck6kR97-.js                        0.22 kB Γöé gzip:  0.16 kB
+dist/assets/ellipsis-vertical-CpQowfiU.js             0.23 kB Γöé gzip:  0.17 kB
+dist/assets/circle-alert-BdhKnst8.js                  0.25 kB Γöé gzip:  0.18 kB
+dist/assets/chart-column-DI5rnSJ6.js                  0.25 kB Γöé gzip:  0.19 kB
+dist/assets/calendar-BDhVl6yD.js                      0.25 kB Γöé gzip:  0.20 kB
+dist/assets/map-pin-CPp1c13x.js                       0.25 kB Γöé gzip:  0.22 kB
+dist/assets/zap-D2N8gL_i.js                           0.26 kB Γöé gzip:  0.20 kB
+dist/assets/triangle-alert-DlF5gK3Z.js                0.26 kB Γöé gzip:  0.21 kB
+dist/assets/bell-BK6oTUUO.js                          0.29 kB Γöé gzip:  0.23 kB
+dist/assets/send-DZyHEKVe.js                          0.29 kB Γöé gzip:  0.23 kB
+dist/assets/tag-B9h1N7P7.js                           0.32 kB Γöé gzip:  0.25 kB
+dist/assets/trash-2-BbGiZNfL.js                       0.32 kB Γöé gzip:  0.21 kB
+dist/assets/funnel-C30eudUV.js                        0.33 kB Γöé gzip:  0.25 kB
+dist/assets/brain-circuit-1-pIGuJC.js                 0.80 kB Γöé gzip:  0.40 kB
+dist/assets/TaskCategoriesScreen-COjcBlMp.js          3.90 kB Γöé gzip:  1.67 kB
+dist/assets/CalendarScreen-Dw5KC060.js                3.98 kB Γöé gzip:  1.42 kB
+dist/assets/TeamChatScreen-CuLN7OmL.js                4.20 kB Γöé gzip:  1.62 kB
+dist/assets/TaskDetailScreen-CDkg7fvp.js              4.21 kB Γöé gzip:  1.59 kB
+dist/assets/DeadlineRiskAlertsScreen-R-fviHP1.js      4.28 kB Γöé gzip:  1.61 kB
+dist/assets/TaskAnalysisScreen-DBNg_IBN.js            4.37 kB Γöé gzip:  1.51 kB
+dist/assets/NotificationsScreen-Dxf3ioBs.js           4.45 kB Γöé gzip:  1.68 kB
+dist/assets/EditTaskScreen-cM_M8658.js                4.56 kB Γöé gzip:  1.42 kB
+dist/assets/EditProfileScreen-CXL5dZUx.js             4.65 kB Γöé gzip:  1.75 kB
+dist/assets/SmartReschedulingScreen-C5y_sBy8.js       5.08 kB Γöé gzip:  1.69 kB
+dist/assets/ProductivityInsightsScreen-C5q8Ajw2.js    5.19 kB Γöé gzip:  1.89 kB
+dist/assets/ProfileScreen-C0EZy98k.js                 5.24 kB Γöé gzip:  1.94 kB
+dist/assets/AllTasksScreen-eDbCkifw.js                5.25 kB Γöé gzip:  1.87 kB
+dist/assets/MapScreen-CFcgfrzz.js                     5.38 kB Γöé gzip:  1.95 kB
+dist/assets/CreateTaskScreen-C8jJBakn.js              6.93 kB Γöé gzip:  1.75 kB
+dist/assets/HomeScreen-yQX1J75f.js                    7.11 kB Γöé gzip:  2.25 kB
+dist/assets/TeamCollaborationScreen-CfgoNq7m.js       7.86 kB Γöé gzip:  2.18 kB
+dist/assets/createLucideIcon-B0bMLgRq.js             51.32 kB Γöé gzip: 18.24 kB
+dist/assets/proxy-uXM1PiL_.js                       119.52 kB Γöé gzip: 38.86 kB
+dist/assets/index-CEnHNSPx.js                       223.21 kB Γöé gzip: 67.67 kB
+dist/assets/AISuggestionsScreen-D74jXmt_.js         322.81 kB Γöé gzip: 83.07 kB
+
+node.exe : [33m[33m[EVAL] 
+Warning:[0m Use of direct 
+`eval` function is strongly 
+discouraged as it poses 
+security risks and may cause 
+issues with minification.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: ([33m[  
+  33m[EVAL...h minificatio   
+ n.:String) [], RemoteExc    
+eption
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+       [38;5;246mΓò¡[0m[38
+;5;246mΓöÇ[0m[38;5;246m[[0
+m node_modules/lottie-web/bui
+ld/player/lottie.js:14422:33 
+[38;5;246m][0m
+       [38;5;246mΓöé[0m
+ [38;5;246m14422 Γöé[0m 
+[38;5;249m [0m[38;5;249m 
+[0m[38;5;249m 
+[0m[38;5;249m 
+[0m[38;5;249m 
+[0m[38;5;249m [0m[38;5;24
+9mv[0m[38;5;249ma[0m[38;5
+;249mr[0m[38;5;249m [0m[3
+8;5;249me[0m[38;5;249mx[0m
+[38;5;249mp[0m[38;5;249mr
+[0m[38;5;249me[0m[38;5;249
+ms[0m[38;5;249ms[0m[38;5;
+249mi[0m[38;5;249mo[0m[38
+;5;249mn[0m[38;5;249m_[0m
+[38;5;249mf[0m[38;5;249mu[
+0m[38;5;249mn[0m[38;5;249m
+c[0m[38;5;249mt[0m[38;5;2
+49mi[0m[38;5;249mo[0m[38;
+5;249mn[0m[38;5;249m [0m[
+38;5;249m=[0m[38;5;249m [0
+meval[38;5;249m([0m[38;5;2
+49m'[0m[38;5;249m[[0m[38;
+5;249mf[0m[38;5;249mu[0m[
+38;5;249mn[0m[38;5;249mc[0
+m[38;5;249mt[0m[38;5;249mi
+[0m[38;5;249mo[0m[38;5;24
+9mn[0m[38;5;249m [0m[38;5
+;249m_[0m[38;5;249me[0m[3
+8;5;249mx[0m[38;5;249mp[0m
+[38;5;249mr[0m[38;5;249me
+[0m[38;5;249ms[0m[38;5;249
+ms[0m[38;5;249mi[0m[38;5;
+249mo[0m[38;5;249mn[0m[38
+;5;249m_[0m[38;5;249mf[0m
+[38;5;249mu[0m[38;5;249mn[
+0m[38;5;249mc[0m[38;5;249m
+t[0m[38;5;249mi[0m[38;5;2
+49mo[0m[38;5;249mn[0m[38;
+5;249m([0m[38;5;249m)[0m[
+38;5;249m{[0m[38;5;249m'[0
+m[38;5;249m [0m[38;5;249m+
+[0m[38;5;249m [0m[38;5;24
+9mv[0m[38;5;249ma[0m[38;5
+;249ml[0m[38;5;249m [0m[3
+8;5;249m+[0m[38;5;249m [0m
+[38;5;249m'[0m[38;5;249m;
+[0m[38;5;249ms[0m[38;5;249
+mc[0m[38;5;249mo[0m[38;5;
+249mp[0m[38;5;249me[0m[38
+;5;249md[0m[38;5;249m_[0m
+[38;5;249mb[0m[38;5;249mm[
+0m[38;5;249m_[0m[38;5;249m
+r[0m[38;5;249mt[0m[38;5;2
+49m=[0m[38;5;249m$[0m[38;
+5;249mb[0m[38;5;249mm[0m[
+38;5;249m_[0m[38;5;249mr[0
+m[38;5;249mt[0m[38;5;249m}
+[0m[38;5;249m][0m[38;5;24
+9m'[0m[38;5;249m)[0m[38;5
+;249m[[0m[38;5;249m0[0m[3
+8;5;249m][0m[38;5;249m;[0m
+[38;5;249m [0m[38;5;249m/
+[0m[38;5;249m/[0m[38;5;249
+m [0m[38;5;249me[0m[38;5;
+249ms[0m[38;5;249ml[0m[38
+;5;249mi[0m[38;5;249mn[0m
+[38;5;249mt[0m[38;5;249m-[
+0m[38;5;249md[0m[38;5;249m
+i[0m[38;5;249ms[0m[38;5;2
+49ma[0m[38;5;249mb[0m[38;
+5;249ml[0m[38;5;249me[0m[
+38;5;249m-[0m[38;5;249ml[0
+m[38;5;249mi[0m[38;5;249mn
+[0m[38;5;249me[0m[38;5;24
+9m [0m[38;5;249mn[0m[38;5
+;249mo[0m[38;5;249m-[0m[3
+8;5;249me[0m[38;5;249mv[0m
+[38;5;249ma[0m[38;5;249ml
+[0m
+ [38;5;240m      Γöé[0m    
+                             
+ΓöÇΓöÇΓö¼ΓöÇ  
+ [38;5;240m      Γöé[0m    
+                             
+  Γò░ΓöÇΓöÇΓöÇ Use of direct 
+`eval` here.
+ [38;5;240m      Γöé[0m 
+ [38;5;240m      Γöé[0m 
+[38;5;115mHelp[0m: 
+Consider using indirect 
+eval. For more information, 
+check the documentation: http
+s://rolldown.rs/guide/trouble
+shooting#avoiding-direct-eval
+[38;5;246mΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+ΓöÇΓò»[0m
+[39m
+[32mΓ£ô built in 947ms[39m
