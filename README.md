@@ -1,6 +1,14 @@
 # 🚀 AI Task Management & Geolocation Web App
 
-A premium, state-of-the-art web application converted from the original Android frontend. This project features a sophisticated dark theme, AI-powered productivity insights, and seamless task management.
+
+A unified full-stack solution featuring a Python FastAPI backend and a React/Vite frontend. This project includes modern aesthetics, AI-powered productivity insights, and geolocation-based task management.
+
+---
+
+## 📂 Project Structure
+- **[/backend](./backend)**: Python FastAPI server, database scripts, and AI logic ([Backend README](./backend/README.md)).
+- **[/src](./src)**: React frontend source code, components, and pages.
+
 
 ---
 
@@ -46,8 +54,8 @@ The app will be available at: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 📂 Project Structure
-- `/src/pages/auth`: Login, Registration, Password Reset, and Verification flow.
+## 📱 Frontend Overview
+- **`/src/pages/auth`**: Login, Registration, Password Reset, and Verification flow.
 - `/src/pages/dashboard`: Home, Profile, Notifications, and Analytics.
 - `/src/pages/tasks`: Task listings, Detailed views, and Creation/Edit forms.
 - `/src/pages/team`: Collaboration tools, Team Chat, and Analysis.
